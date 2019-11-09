@@ -1,0 +1,22 @@
+{
+  "name": "react-native-juvo-player-api",
+  "version": "1.1.0",
+  "description": "tizen ",
+  "main": "RNJuvoPlayerApi.tizen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "juvo-player",
+    "video-streaming",
+    "tizen-dot-net",
+    "samsung-smart-tv"
+  ],
+  "author": "polboo",
+  "license": "",
+  "peerDependencies": {
+    "react-native": "0.42.3",
+    "react-native-tizen-dotnet": ">=0.1.1"
+  }
+}
